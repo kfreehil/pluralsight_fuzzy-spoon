@@ -1,0 +1,4 @@
+Installation guide
+-------------------
+
+Just hook the thing up yourself!
